@@ -3,7 +3,10 @@
         let adminAvatar = "https://via.placeholder.com/36";
         let allData = [];
         let currentItem = null;
-
+<script
+  type="text/javascript"
+  src="https://pl28196975.effectivegatecpm.com/cd/89/c0/cd89c0ce021ab290b6ab7e2335ab0c1f.js"
+></script>
         // আপনার Supabase ফাংশন লিংক
         const API_URL = "https://ambylxvsxgxfgzpxzwpr.supabase.co/functions/v1/bright-worker";
 
